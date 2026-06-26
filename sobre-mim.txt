@@ -2,3 +2,4 @@ Nome: Vinicius Alves de Oliveira
 Curso: Engenharia de Software
 Objetivo: Aprender Git e GitHub.
 Aprendi a utilizar Git, GitHub e SSH durante esta atividade.
+Esta linha foi adicionada diretamente pelo GitHub em uma branch separada.
